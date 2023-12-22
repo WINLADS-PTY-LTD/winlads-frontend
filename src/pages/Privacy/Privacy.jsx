@@ -425,11 +425,11 @@ export default function Privacy() {
               </a>
             </strong>
           </p> */}
-          <p className="p-2">
+          <p className="p-2 text-center xl:text-start">
           NSW: TP/03199
 
           </p>
-          <p className="p-2">
+          <p className="p-2 text-center xl:text-start">
           Permit No: ACT TP 23/02687
 
           </p>

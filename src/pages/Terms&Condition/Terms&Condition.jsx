@@ -33,7 +33,7 @@ const sampleData = [
   {
     id: 4,
     name: "Website address",
-    description: <a href="www.winlads.com" target="_blank">www.winlads.com</a>,
+    description: <a href="/" target="_blank">www.winlads.com</a>,
   },
   {
     id: 5,
