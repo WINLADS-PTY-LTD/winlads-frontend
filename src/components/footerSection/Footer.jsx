@@ -36,13 +36,13 @@ function Footer() {
                     </a> */}
                   </li>
                   <li className="cursor-pointer">
-                    <a
-                      href="https://www.winlads.com/conditions"
+                    <Link
+                      to="conditions"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       Terms and Conditions
-                    </a>
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -75,18 +75,12 @@ function Footer() {
                 </p>
                 <ul className="text-xs 2xl:text-xl flex flex-col gap-1">
                   <li className="cursor-pointer">ABN: 87671535149</li>
-                  <li className="cursor-pointer">
-                    2009/15 Everage St 
-                  </li>
-                  <li className="cursor-pointer">
-                   Moonee Ponds
-                  </li>
-                  <li className="cursor-pointer">
-                    Victoria
-                  </li>
-                  <li className="cursor-pointer">
-                   3039
-                  </li>
+                  <li className="cursor-pointer">2009/15 Everage St</li>
+                  <li className="cursor-pointer">Moonee Ponds</li>
+                  <li className="cursor-pointer">Victoria</li>
+                  <li className="cursor-pointer">3039</li>
+                  <li className="cursor-pointer">NSW: TP/03199</li>
+                  <li className="cursor-pointer">Permit No: ACT TP 23/02687</li>
                 </ul>
               </div>
             </div>

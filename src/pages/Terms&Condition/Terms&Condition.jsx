@@ -33,7 +33,7 @@ const sampleData = [
   {
     id: 4,
     name: "Website address",
-    description: "www.winlads.com",
+    description: <a href="www.winlads.com" target="_blank">www.winlads.com</a>,
   },
   {
     id: 5,
@@ -111,8 +111,14 @@ const sampleData = [
     id: 18,
     name: " Permit reference",
     description:
-      "Authorised under NSW Authority No. TP/xxxxx SA Permit No. T23/xxxx ACT Permit No. TP 23/0xxxx",
+      "Authorised under NSW Authority No. TP/03199  Permit No. ACT TP 23/02687",
   },
+  // {
+  //   id: 19,
+  //   name: "Privacy Policy",
+  //   description:
+  //     <a href="/privacy" target="_blank">Click here</a>
+  // },
 ];
 
 
