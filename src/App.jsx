@@ -97,10 +97,6 @@ function App() {
           element: <PaymentSuccess />,
         },
         {
-          path: "/conditions",
-          element: <TermsCondition />,
-        },
-        {
           path: "/myentries",
           element: <MyEntries />,
         },
@@ -115,22 +111,26 @@ function App() {
       ],
     },
 
-    // {
-    //   path: "/",
-    //   element: <Home />,
-    // },
-    // {
-    //   path: "*",
-    //   element: <NotFound />,
-    // },
+    {
+      path: "/",
+      element: <Home />,
+    },
+    {
+      path: "/conditions",
+      element: <TermsCondition />,
+    },
+    {
+      path: "*",
+      element: <NotFound />,
+    },
     // {
     //   path: "/dashboard",
     //   element: <Dashboard />,
     // },
-    // {
-    //   path: "/register",
-    //   element: <Register />,
-    // },
+    {
+      path: "/register",
+      element: <Register />,
+    },
     {
       path: "/login",
       element: <Login />,

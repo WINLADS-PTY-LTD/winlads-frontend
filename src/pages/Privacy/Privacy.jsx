@@ -7,450 +7,423 @@ export default function Privacy() {
     >
       <div className="">
         <div className="">
-          <p className="text-3xl 4xl:text-8xl xl:text-6xl special:text-8xl md:text-4xl font-bold uppercase tracking-widest p-4 text-center lg:text-4xl lg:text-center 4xl:text:center xl:text-center">
-            Privacy Policy
-          </p>
-        </div>
-        <div className="">
-          <p className="text-xl 4xl:text-4xl xl:text-2xl special:text-4xl md:text-4xl font-bold	 mx-20  p-4 text-center lg:text-4xl lg:text-left 4xl:text:left xl:text-left">
-            Last updated: December 14, 2023
+          <p className="text-3xl 4xl:text-8xl xl:text-4xl special:text-8xl md:text-4xl font-bold uppercase tracking-widest p-4 text-center lg:text-4xl lg:text-center 4xl:text:center xl:text-center">
+            WINLADS PTY LTD – PRIVACY POLICY
           </p>
         </div>
         <div className="lg:mx-20 mx-5 ">
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            This Privacy Policy describes Our policies and procedures on the
-            collection, use and disclosure of Your information when You use the
-            Service and tells You about Your privacy rights and how the law
-            protects You. We use Your Personal data to provide and improve the
-            Service. By using the Service, You agree to the collection and use
-            of information in accordance with this Privacy Policy. This Privacy
-            Policy has been created with the help of the Privacy Policy
-            Generator
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-2 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+            Winlads Pty Ltd (ABN 87 671 535 149) (we, us or our), understands
+            that protecting your personal information is important. This Privacy
+            Policy sets out our commitment to protecting the privacy of personal
+            information provided to us, or collected by us, when interacting
+            with you.
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            We use Your Personal data to provide and improve the Service. By
-            using the Service, You agree to the collection and use of
-            information in accordance with this Privacy Policy. This Privacy
-            Policy has been created with the help of the Privacy Policy
-            Generator.
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-2 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+            This PrivacyPolicy was last updated on 15 December 2023.
           </p>
-          <div className="">
-            <p className="text-xl 4xl:text-6xl xl:text-2xl special:text-4xl md:text-4xl font-bold	  p-4 text-center lg:text-4xl lg:text-left 4xl:text:left xl:text-left">
-              Interpretation and Definitions
+        </div>
+        <div className="">
+          <p className="text-xl 4xl:text-4xl xl:text-2xl special:text-4xl md:text-4xl font-bold	 mx-20  p-2 text-center lg:text-4xl lg:text-left 4xl:text:left xl:text-left">
+            The information we collect
+          </p>
+        </div>
+        <div className="lg:mx-20 mx-5 ">
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-2 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+            <strong>Personal information:</strong> is information or an opinion,
+            whether true or not and whether recorded in a material form or not,
+            about an individual who is identified or reasonably identifiable.
+          </p>
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-2 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            The types of personal information we may collect about you include:
+          </p>
+          <div className="lg:mx-20 mx-5">
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left">
+              <strong>Contact Data </strong>including your name, telephone
+              number, address and email.
+            </p>
+
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Financial Data</strong>including bank account and payment
+              card details (through our third party payment processor, who
+              stores such information and we do not have access to that
+              information).
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Background Verification Data</strong> including your
+              government-issued identification details requested as part of our
+              onboarding process to comply with our due diligence obligations,
+              anti-money laundering laws and related ongoing monitoring
+              commitments.
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Transaction Data</strong> including details about payments
+              from you to us and other details of products and services you have
+              purchased from us .
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Technical and Usage Data</strong> when you access any of
+              our websites or platforms, details about your internet protocol
+              (IP) address, login data, browser session and geo-location data,
+              statistics on page views and sessions, device and network
+              information, acquisition sources, search queries and/or browsing
+              behaviour, access and use of our website (including through the
+              use of Internet cookies or analytics), and communications with our
+              website..
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Interaction Data </strong> including information you
+              provide to us when you participate in any interactive features,
+              including surveys, contests, promotions, activities or events.
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Marketing and Communications Data</strong> including your
+              preferences in receiving marketing from us and our third parties
+              and your communication preferences.
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Professional data</strong>including where you are a worker
+              of ours or applying for a role with us, your professional history
+              such as your previous positions and professional experience.
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+              <strong>Sensitive information</strong> is a sub-set of personal
+              information that is given a higher level of protection. Sensitive
+              information means information relating to your racial or ethnic
+              origin, political opinions, religion, trade union or other
+              professional associations or memberships, philosophical beliefs,
+              sexual orientation or practices, criminal records, health
+              information or biometric information. We do not actively request
+              sensitive information about you. If at any time we need to collect
+              sensitive information about you, unless otherwise permitted by
+              law, we will first obtain your consent and we will only use it as
+              required or authorised by law.
             </p>
           </div>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Interpretation
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The words of which the initial letter is capitalized have meanings
-            defined under the following conditions. The following definitions
-            shall have the same meaning regardless of whether they appear in
-            singular or in plural
-          </p>
           <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Definitions
+            How we collect personal information
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            For the purposes of this Privacy Policy:
+            We collect personal information in a variety of ways, including::
           </p>
-          <div className="lg-mx-20">
+          <div className="lg:mx-20 mx-5">
             <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>Account</strong> means a unique account created for You to
-              access our Service or parts of our Service
+              when you provide it directly to us, including face-to-face, over
+              the phone, over email, or online;
             </p>
             <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Affiliate </strong> means an entity that controls, is
-              controlled by or is under common control with a party, where
-              "control" means ownership of 50% or more of the shares, equity
-              interest or other securities entitled to vote for election of
-              directors or other managing authority.
+              when you complete a form, such as registering for any events or
+              newsletters, or responding to surveys;
             </p>
             <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Application </strong> refers to Winlads, the software
-              program provided by the Company.
+              when you use any website we operate (including from any analytics
+              and cookie providers or marketing providers. See the “Cookies”
+              section below for more detail on the use of cookies);
             </p>
             <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Company </strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to Winlads PTY LTD,
-              2009/15 everage st Moonee Ponds.
+              from third parties, such as Linkedin; or
             </p>
             <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Country </strong> refers to: Victoria, Australia
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Device </strong> means any device that can access the
-              Service such as a computer, a cellphone or a digital tablet.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Personal Data </strong> is any information that relates to
-              an identified or identifiable individual.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong>Service</strong> refers to the Application.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong> Service Provider</strong> means any natural or legal
-              person who processes the data on behalf of the Company. It refers
-              to third-party companies or individuals employed by the Company to
-              facilitate the Service, to provide the Service on behalf of the
-              Company, to perform services related to the Service or to assist
-              the Company in analyzing how the Service is used..
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong> Usage Data</strong> refers to data collected
-              automatically, either generated by the use of the Service or from
-              the Service infrastructure itself (for example, the duration of a
-              page visit).
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
-              <strong> You </strong> means the individual accessing or using the
-              Service, or the company, or other legal entity on behalf of which
-              such individual is accessing or using the Service, as applicable.
+              from publicly available sources.
             </p>
           </div>
-          <div className="">
-            <p className="text-xl 4xl:text-6xl xl:text-4xl special:text-4xl md:text-4xl font-bold	  p-4 text-center lg:text-4xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              Collecting and Using Your Personal Data
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Why we collect, hold, use and disclose personal information
+          </p>
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
+            <strong>Personal information: </strong> We collect, hold, use and
+            disclose your personal information for the following purposes:
+          </p>
+          <div className="lg:mx-20 mx-5">
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
+              to assess whether to take you on as a new client, including to
+              perform anti-money laundering, anti-terrorism, sanction screening,
+              fraud and other background checks on you;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
+              to do business with you, including to dispatch and deliver our
+              products to you;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
+              to contact and communicate with you about our business, including
+              in response to any support requests you lodge with us or other
+              enquiries you make with us;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
+              to contact and communicate with you about any enquiries you make
+              with us via any website we operate;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-3">
+              for internal record keeping, administrative, invoicing and billing
+              purposes;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              for analytics, market research and business development, including
+              to operate and improve our business, associated applications and
+              associated social media platforms;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              for advertising and marketing, including to send you promotional
+              information about our events and experiences and information that
+              we consider may be of interest to you;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              to run promotions, competitions and/or offer additional benefits
+              to you;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              if you have applied for employment with us, to consider your
+              employment application; and
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              to comply with our legal obligations or if otherwise required or
+              authorised by law. ;
             </p>
           </div>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Types of Data Collected
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Our disclosures of personal information to third parties
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold italic   lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Personal Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            While using Our Service, We may ask You to provide Us with certain
-            personally identifiable information that can be used to contact or
-            identify You. Personally identifiable information may include, but
-            is not limited to:
-          </p>
-          <div className="lg-mx-20">
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-2">
-              Email address
+          <div className="lg:mx-20 mx-5">
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              <strong>Personal information:</strong> We will only disclose your
+              personal information to third parties where it is necessary as
+              part of our business, where we have your consent, or where
+              permitted by law. This means that we may disclose personal
+              information to:
             </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-2">
-              First name and last name
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              our employees, contractors and/or related entities;
             </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-2">
-              Phone number
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              IT service providers, data storage, web-hosting and server
+              providers;
             </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-2">
-              Address, State, Province, ZIP/Postal code, City
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              marketing or advertising providers;
             </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-2">
-              Usage Data
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              delivery or logistics providers who deliver our goods to you;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              professional advisors, bankers, auditors, our insurers and
+              insurance brokers;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              payment systems operators or processors;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              our existing or potential agents or business partners;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              sponsors or promoters of any promotions or competition we run;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              if we merge with, or are acquired by, another company, or sell all
+              or a portion of our assets, your personal information may be
+              disclosed to our advisers and any prospective purchaser’s advisers
+              and may be among the assets transferred;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              courts, tribunals and regulatory authorities, in the event you
+              fail to pay for goods or services we have provided to you;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              courts, tribunals, regulatory authorities and law enforcement
+              officers, as required or authorised by law, in connection with any
+              actual or prospective legal proceedings, or in order to establish,
+              exercise or defend our legal rights;
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              third parties to collect and process data, such as analytics
+              providers and cookies; and
+            </p>
+            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+              any other third parties as required or permitted by law, such as
+              where we receive a subpoena.
             </p>
           </div>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4  font-bold italic lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5 ">
-            Usage Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-2 ">
-            Usage Data is collected automatically when using the Service.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	    px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5 ">
-            Usage Data may include information such as Your Device's Internet
-            Protocol address (e.g. IP address), browser type, browser version,
-            the pages of our Service that You visit, the time and date of Your
-            visit, the time spent on those pages, unique device identifiers and
-            other diagnostic data.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5 ">
-            When You access the Service by or through a mobile device, We may
-            collect certain information automatically, including, but not
-            limited to, the type of mobile device You use, Your mobile device
-            unique ID, the IP address of Your mobile device, Your mobile
-            operating system, the type of mobile Internet browser You use,
-            unique device identifiers and other diagnostic data.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            We may also collect information that Your browser sends whenever You
-            visit our Service or when You access the Service by or through a
-            mobile device.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4 font-bold italic  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5 ">
-            Use of Your Personal Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The Company may use Personal Data for the following purposes:
-          </p>
-          <div className="lg-mx-20">
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left  ">
-              <strong>To provide and maintain our Service,</strong>
-              including to monitor the usage of our Service.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>To manage Your Account:</strong> to manage Your
-              registration as a user of the Service. The Personal Data You
-              provide can give You access to different functionalities of the
-              Service that are available to You as a registered user.e
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>Account</strong> means a unique account created for You to
-              access our Service or parts of our Service
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>For the performance of a contract:</strong> the
-              development, compliance and undertaking of the purchase contract
-              for the products, items or services You have purchased or of any
-              other contract with Us through the Service.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>To contact You:</strong> To contact You by email,
-              telephone calls, SMS, or other equivalent forms of electronic
-              communication, such as a mobile application's push notifications
-              regarding updates or informative communications related to the
-              functionalities, products or contracted services, including the
-              security updates, when necessary or reasonable for their
-              implementation.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>To provide You </strong> with news , special offers and
-              general information about other goods, services and events which
-              we offer that are similar to those that you have already purchased
-              or enquired about unless You have opted not to receive such
-              information
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>To manage Your requests:</strong> To attend and manage
-              Your requests to Us.
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>For business transfers:</strong> We may use Your
-              information to evaluate or conduct a merger, divestiture,
-              restructuring, reorganization, dissolution, or other sale or
-              transfer of some or all of Our assets, whether as a going concern
-              or as part of bankruptcy, liquidation, or similar proceeding, in
-              which Personal Data held by Us about our Service users is among
-              the assets transferred.e
-            </p>
-            <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-              <strong>For other purposes:</strong> We may use Your information
-              for other purposes, such as data analysis, identifying usage
-              trends, determining the effectiveness of our promotional campaigns
-              and to evaluate and improve our Service, products, services,
-              marketing and your experience.e
-            </p>
-          </div>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The Company may use Personal Data for the following purposes:
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+            <strong>Google Analytics:</strong> We have enabled Google Analytics
+            Advertising Features. We and third-party vendors may use first-party
+            cookies (such as the Google Analytics cookie) or other first-party
+            identifiers, and third-party cookies (such as Google advertising
+            cookies) or other third-party identifiers together. These cookies
+            and identifiers may collect Technical and Usage Data about you.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong>• With Service Providers:</strong> We may share Your
-            personal information with Service Providers to monitor and analyze
-            the use of our Service, to contact You.
+            You can opt-out of Google Analytics Advertising Features including
+            using a Google Analytics Opt-out Browser add-on found{" "}
+            <a href="https://tools.google.com/dlpage/gaoptout/">here</a>. To
+            opt-out of personalised ad delivery on the Google content network,
+            please visit Google’s Ads Preferences Manager{" "}
+            <a href="https://www.google.com/url?q=http://www.google.com/ads/preferences&sa=D&source=docs&ust=1703228280743100&usg=AOvVaw003c1bp5Z8lcLmKrtVcbk0">
+              here
+            </a>{" "}
+            or if you wish to opt-out permanently even when all cookies are
+            deleted from your browser you can install their plugin{" "}
+            <a href="https://support.google.com/My-Ad-Center-Help/answer/12155656?visit_id=638388214970428295-2597209132&rd=1">
+              here
+            </a>{" "}
+            To opt out of interest-based ads on mobile devices, please follow
+            these instructions for your mobile device: On android open the
+            Google Settings app on your device and select “ads” to control the
+            settings. On iOS devices with iOS 6 and above use Apple’s
+            advertising identifier. To learn more about limiting ad tracking
+            using this identifier, visit the settings menu on your device.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong>• For business transfers:</strong> We may share or transfer
-            Your personal information in connection with, or during negotiations
-            of, any merger, sale of Company assets, financing, or acquisition of
-            all or a portion of Our business to another company
+            To find out how Google uses data when you use third party websites
+            or applications, please see{" "}
+            <a href="https://policies.google.com/technologies/partner-sites">
+              here
+            </a>
+          </p>
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Overseas disclosure
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong> • With Affiliates:</strong> We may share Your information
-            with Our affiliates, in which case we will require those affiliates
-            to honor this Privacy Policy. Affiliates include Our parent company
-            and any other subsidiaries, joint venture partners or other
-            companies that We control or that are under common control with Us.
+            We store your personal information in Australia. Where we disclose
+            your personal information to third parties, those third parties may
+            store, transfer or access personal information outside of Australia.
+            We will only disclose your personal information overseas in
+            accordance with the Australian Privacy Principles.
+          </p>
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Your rights and controlling your personal information
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong>• With Service Providers:</strong> We may share Your
-            personal information with Service Providers to monitor and analyze
-            the use of our Service, to contact You.
+            <strong>Your choice: </strong>Please read this Privacy Policy
+            carefully. If you provide personal information to us, you understand
+            we will collect, hold, use and disclose your personal information in
+            accordance with this Privacy Policy. You do not have to provide
+            personal information to us, however, if you do not, it may affect
+            our ability to do business with you.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong>• With business partners:</strong>
-            We may share Your information with Our business partners to offer
-            You certain products, services or promotions.
+            <strong> Information from third parties: </strong> If we receive
+            personal information about you from a third party, we will protect
+            it as set out in this Privacy Policy. If you are a third party
+            providing personal information about somebody else, you represent
+            and warrant that you have such person’s consent to provide the
+            personal information to us.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong>• With other users:</strong> when You share personal
-            information or otherwise interact in the public areas with other
-            users, such information may be viewed by all users and may be
-            publicly distributed outside.
+            <strong>Restrict and unsubscribe: </strong> To object to processing
+            for direct marketing/unsubscribe from our email database or opt-out
+            of communications (including marketing communications), please
+            contact us using the details below or opt-out using the opt-out
+            facilities provided in the communication.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            <strong>• With Your consent</strong> : We may disclose Your personal
-            information for any other purpose with Your consent.
+            <strong>Access: </strong> You may request access to the personal
+            information that we hold about you. An administrative fee may be
+            payable for the provision of such information. Please note, in some
+            situations, we may be legally permitted to withhold access to your
+            personal information. If we cannot provide access to your
+            information, we will advise you as soon as reasonably possible and
+            provide you with the reasons for our refusal and any mechanism
+            available to complain about the refusal. If we can provide access to
+            your information in another form that still meets your needs, then
+            we will take reasonable steps to give you such access..
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold italic  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Retention of Your Personal Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The Company will retain Your Personal Data only for as long as is
-            necessary for the purposes set out in this Privacy Policy. We will
-            retain and use Your Personal Data to the extent necessary to comply
-            with our legal obligations (for example, if we are required to
-            retain your data to comply with applicable laws), resolve disputes,
-            and enforce our legal agreements and policies.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The Company will also retain Usage Data for internal analysis
-            purposes. Usage Data is generally retained for a shorter period of
-            time, except when this data is used to strengthen the security or to
-            improve the functionality of Our Service, or We are legally
-            obligated to retain this data for longer time periods.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4  font-bold italic lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Transfer of Your Personal Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Your information, including Personal Data, is processed at the
-            Company's operating offices and in any other places where the
-            parties involved in the processing are located. It means that this
-            information may be transferred to — and maintained on — computers
-            located outside of Your state, province, country or other
-            governmental jurisdiction where the data protection laws may differ
-            than those from Your jurisdiction.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Your consent to this Privacy Policy followed by Your submission of
-            such information represents Your agreement to that transfer.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The Company will take all steps reasonably necessary to ensure that
-            Your data is treated securely and in accordance with this Privacy
-            Policy and no transfer of Your Personal Data will take place to an
-            organization or a country unless there are adequate controls in
-            place including the security of Your data and other personal
-            information.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold italic lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Delete Your Personal Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            You have the right to delete or request that We assist in deleting
-            the Personal Data that We have collected about You.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Our Service may give You the ability to delete certain information
-            about You from within the Service.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Your information, including Personal Data, is processed at the You
-            may update, amend, or delete Your information at any time by signing
-            in to Your Account, if you have one, and visiting the account
-            settings section that allows you to manage Your personal
-            information. You may also contact Us to request access to, correct,
-            or delete any personal information that You have provided to Us.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Please note, however, that We may need to retain certain information
-            when we have a legal obligation or lawful basis to do so.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Disclosure of Your Personal Data
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold italic lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Business Transactions
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            If the Company is involved in a merger, acquisition or asset sale,
-            Your Personal Data may be transferred. We will provide notice before
-            Your Personal Data is transferred and becomes subject to a different
-            Privacy Policy.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4  font-bold italic lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Law enforcement
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Under certain circumstances, the Company may be required to disclose
-            Your Personal Data if required to do so by law or in response to
-            valid requests by public authorities (e.g. a court or a government
-            agency).
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold italic lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Other legal requirements
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The Company may disclose Your Personal Data in the good faith belief
-            that such action is necessary to:
+
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+            <strong>Correction: </strong> If you believe that any information we
+            hold about you is inaccurate, out of date, incomplete, irrelevant or
+            misleading, please contact us using the details below. We will take
+            reasonable steps to promptly correct any information found to be
+            inaccurate, out of date, incomplete, irrelevant or misleading.
+            Please note, in some situations, we may be legally permitted to not
+            correct your personal information. If we cannot correct your
+            information, we will advise you as soon as reasonably possible and
+            provide you with the reasons for our refusal and any mechanism
+            available to complain about the refusal.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            • Comply with a legal obligation
+            <strong>Complaints: </strong> If you wish to make a complaint,
+            please contact us using the details below and provide us with full
+            details of the complaint. We will promptly investigate your
+            complaint and respond to you, in writing, setting out the outcome of
+            our investigation and the steps we will take in response to your
+            complaint. If you are not satisfied with our response, you may
+            contact the Office of the Australian Information Commissioner.
+          </p>
+
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Storage and security
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            • Protect and defend the rights or property of the Company
+            We are committed to ensuring that the personal information we
+            collect is secure. In order to prevent unauthorised access or
+            disclosure, we have put in place suitable physical, electronic and
+            managerial procedures, to safeguard and secure personal information
+            and protect it from misuse, interference, loss and unauthorised
+            access, modification and disclosure.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            • Prevent or investigate possible wrongdoing in connection with the
-            Service
+            While we are committed to security, we cannot guarantee the security
+            of any information that is transmitted to or by us over the
+            Internet. The transmission and exchange of information is carried
+            out at your own risk.
+          </p>
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Cookies
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            • Protect the personal safety of Users of the Service or the public
+            We may use cookies on our website from time to time. Cookies are
+            text files placed in your computer's browser to store your
+            preferences. Cookies, by themselves, do not tell us your email
+            address or other personally identifiable information. However, they
+            do recognise you when you return to our online website and allow
+            third parties to cause our advertisements to appear on your social
+            media and online media feeds as part of our retargeting campaigns.
+            If and when you choose to provide our online website with personal
+            information, this information may be linked to the data stored in
+            the cookie.
           </p>
           <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            • Protect against legal liability
+            You can block cookies by activating the setting on your browser that
+            allows you to refuse the setting of all or some cookies. However, if
+            you use your browser settings to block all cookies (including
+            essential cookies) you may not be able to access all or parts of our
+            website.
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold  lg:text-xl lg:text-left 4xl:text:left xl:text-left  mt-5">
-            Security of Your Personal Data
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Links to other websites
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            The security of Your Personal Data is important to Us, but remember
-            that no method of transmission over the Internet, or method of
-            electronic storage is 100% secure. While We strive to use
-            commercially acceptable means to protect Your Personal Data, We
-            cannot guarantee its absolute security.
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
+            Our website may contain links to other party’s websites. We do not
+            have any control over those websites and we are not responsible for
+            the protection and privacy of any personal information which you
+            provide whilst visiting those websites. Those websites are not
+            governed by this Privacy Policy.
           </p>
-          <p className="text-md 2xl:text-2xl xl:text-xl special:text-4xl md:text-2xl p-4  font-bold lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Children's Privacy
+          <p className=" text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl font-bold p-4 lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            Amendments
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Our Service does not address anyone under the age of 13. We do not
-            knowingly collect personally identifiable information from anyone
-            under the age of 13. If You are a parent or guardian and You are
-            aware that Your child has provided Us with Personal Data, please
-            contact Us. If We become aware that We have collected Personal Data
-            from anyone under the age of 13 without verification of parental
-            consent, We take steps to remove that information from Our servers.
+          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
+            We may, at any time and at our discretion, vary this Privacy Policy
+            by publishing the amended Privacy Policy on our website. We
+            recommend you check our website regularly to ensure you are aware of
+            our current Privacy Policy.
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            If We need to rely on consent as a legal basis for processing Your
-            information and Your country requires consent from a parent, We may
-            require Your parent's consent before We collect and use that
-            information.
+          <p className="text-xl 4xl:text-6xl xl:text-xl special:text-8xl md:text-4xl font-bold	  p-2 text-center lg:text-2xl lg:text-left 4xl:text:left xl:text-left mt-5 ">
+            <strong>
+              For any questions or notices, please contact us at: :
+            </strong>
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Links to Other Websites
+          <p className="text-xl 4xl:text-6xl xl:text-xl special:text-8xl md:text-4xl font-bold	  p-2 text-center lg:text-2xl lg:text-left 4xl:text:left xl:text-left  ">
+            <strong>Winlads Pty Ltd (ABN 87 671 535 149)</strong>
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Our Service may contain links to other websites that are not
-            operated by Us. If You click on a third party link, You will be
-            directed to that third party's site. We strongly advise You to
-            review the Privacy Policy of every site You visit.
+          <p className="text-xl 4xl:text-6xl xl:text-xl special:text-8xl md:text-4xl font-bold	  p-2 text-center lg:text-2xl lg:text-left 4xl:text:left xl:text-left  ">
+            Email: admin@winlads.com
           </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            We have no control over and assume no responsibility for the
-            content, privacy policies or practices of any third party sites or
-            services..
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5 ">
-            Changes to this Privacy Policy
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            We may update Our Privacy Policy from time to time. We will notify
-            You of any changes by posting the new Privacy Policy on this page.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   px-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left mt-5">
-            We will let You know via email and/or a prominent notice on Our
-            Service, prior to the change becoming effective and update the "Last
-            updated" date at the top of this Privacy Policy.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            You are advised to review this Privacy Policy periodically for any
-            changes. Changes to this Privacy Policy are effective when they are
-            posted on this page.
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl p-4 font-bold  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            Contact Us
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            If you have any questions about this Privacy Policy, You can contact
-            us:
-          </p>
-          <p className="text-md 2xl:text-xl xl:text-md special:text-4xl md:text-2xl 	   p-4  lg:text-xl lg:text-left 4xl:text:left xl:text-left ">
-            • By email: info@winlads.com
+          <p className="text-xl 4xl:text-6xl xl:text-xl special:text-8xl md:text-4xl font-bold	   p-2 text-center lg:text-4xl lg:text-left 4xl:text:left xl:text-left text-blue-700   ">
+            <strong>
+              <a href="https://legalvision.com.au/">
+                © LegalVision ILP Pty Ltd
+              </a>
+            </strong>
           </p>
         </div>
       </div>
